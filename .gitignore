@@ -2,4 +2,4 @@
 Set-Content .gitignore "lenv312/"
 
 # Adds the .env file to the ignore list
-Add-Content .gitignore ".env"
+Add-Content .gitignore "Basics.env"
