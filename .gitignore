@@ -1,0 +1,5 @@
+# Creates the file and ignores the environment folder
+Set-Content .gitignore "lenv312/"
+
+# Adds the .env file to the ignore list
+Add-Content .gitignore ".env"
